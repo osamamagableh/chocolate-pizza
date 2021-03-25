@@ -1,0 +1,95 @@
+#left_colume_heder{
+    float: left;
+    padding: 20px;
+    position: relative;
+}
+
+.right{
+    float: right;
+    position:absolute;
+    
+}
+#right_header{
+    float:right;
+    margin: 20px;
+    padding: 20px;
+    
+}
+.mid{
+    
+    width: 100%;
+}
+.list{
+    width: 100%;
+}
+.pic{
+    width: 100%;
+}
+.hrimg{
+background-image: url("./images/hr-img.png");
+background-repeat: repeat-x;
+background-size:  10px;
+
+}
+.left1{
+    width: 75%;
+    float: left;
+}
+.right1{
+    position: absolute;
+    float: right;
+    background-color: brown;
+    right:100px;
+    top: 280%;
+    
+    
+}
+.logo h3 {
+    position: relative;
+    left: 50px;
+    top: 0px;
+    font-family: 'Pangolin', cursive;
+}
+.logo p{
+    position: relative;
+    left: 50px;
+}
+.logo img{
+    position: absolute;
+}
+.left1 img{
+    position:absolute ;
+}
+.left1 h2{
+    position: relative;
+    left: 80px;
+}
+.left1 p{
+    position: relative;
+    left: 80px;
+}
+#Down{
+    position:absolute;
+    left: 40%;
+    top: 330%;
+}
+.footer{
+    position: absolute;
+    top: 310%;
+    right: 50%;
+}
+.pikeright
+{
+    float:right;
+    position: absolute;
+    top: 220%;
+    right: 20%;
+    font-family: 'Pangolin', cursive;
+    
+}
+.pikeleft{
+    position: absolute;
+    top: 220%;
+    left: 5%;
+    font-family: 'Pangolin', cursive;
+}
